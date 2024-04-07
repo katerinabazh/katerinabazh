@@ -12,8 +12,7 @@ Interested in the field of **product**, **analysis** related to **marketing**. P
 PostgreSQL
 
 ### 📫Connect with me
--  kate2000bkoven@gmail.com
-<p> <a href="https://t.me/Ekaterion"><img src="https://github.com/katerinabazh/katerinabazh/assets/135614951/2ddafecb-a63d-4806-a598-667c6c1285bf" height=25></a>  <a href="https://vk.com/id358310969"><img src="https://github.com/katerinabazh/katerinabazh/assets/135614951/c80dba99-788c-46d4-a5a7-ab03a71e2de7" height=25></a> </p>
+-  kate2000bkoven@gmail.com or <p> <a href="https://t.me/Ekaterion"><img src="https://github.com/katerinabazh/katerinabazh/assets/135614951/2ddafecb-a63d-4806-a598-667c6c1285bf" height=25></a>  <a href="https://vk.com/id358310969"><img src="https://github.com/katerinabazh/katerinabazh/assets/135614951/c80dba99-788c-46d4-a5a7-ab03a71e2de7" height=25></a> </p>
 
 - ⚡ Fun fact: I am absolutely convinced that the month I stop studying I will start dying
 
