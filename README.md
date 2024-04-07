@@ -3,7 +3,7 @@
 ## I’m a product analyst
 Interested in the field of **products**, **analytics** related to **marketing**. Passionate about finding growth areas to improve the product for users and business. Before learning how to **analyze data**, I worked as a programmer of text languages in the field of automation of report generation for a year.
 
-###### DevOps Tools:
+### DevOps Tools:
 <img src="https://github.com/katerinabazh/katerinabazh/assets/135614951/38f1df32-7c02-4d3b-9886-fa9bb4f67a1f" height=25></a>
 GitHub
 
@@ -11,7 +11,7 @@ GitHub
 
 <img src="https://github.com/katerinabazh/katerinabazh/assets/135614951/30418d1f-e5ed-4073-b082-3f7e8a8e121d" height=25></a> LaTeX
 
-###### Databases: 
+### Databases: 
 PostgreSQL
 
 ### 📫Connect with me
