@@ -1,13 +1,15 @@
 ### 👋 Hi, I’m Katerina
 
-I’m interested in the field of **product analysis** related to **marketing**. Passionate about finding growth areas to improve the product for users and business. Before learning how to **analyze data**, I worked as a programmer of text languages in the field of automation of report generation for a year.
+## I’m a product analyst
+Interested in the field of **product**, **analysis** related to **marketing**. Passionate about finding growth areas to improve the product for users and business. Before learning how to **analyze data**, I worked as a programmer of text languages in the field of automation of report generation for a year.
 
 ###### DevOps Tools:
 - GitHub
 - Python: pandas, matplotlib, seaborn, scipy, numpy, math, datetime, locale, tqdm, json, folium
+- LaTeX
 
 ###### Databases: 
-PostgreSQL, MySQL, MariaDB, Redis
+PostgreSQL
 
 ### 📫Connect with me
 -  kate2000bkoven@gmail.com
