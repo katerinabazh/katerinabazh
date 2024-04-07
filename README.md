@@ -4,9 +4,10 @@
 Interested in the field of **products**, **analytics** related to **marketing**. Passionate about finding growth areas to improve the product for users and business. Before learning how to **analyze data**, I worked as a programmer of text languages in the field of automation of report generation for a year.
 
 ###### DevOps Tools:
-- <img src="https://github.com/katerinabazh/katerinabazh/assets/135614951/38f1df32-7c02-4d3b-9886-fa9bb4f67a1f" height=25></a>
+<img src="https://github.com/katerinabazh/katerinabazh/assets/135614951/38f1df32-7c02-4d3b-9886-fa9bb4f67a1f" height=25></a>
 GitHub
-- Python: pandas, matplotlib, seaborn, scipy, numpy, math, datetime, locale, tqdm, json, folium
+<img src="https://github.com/katerinabazh/katerinabazh/assets/135614951/51f2a769-7f06-4ac5-bbd0-1898b5a81b01" height=25></a>
+ Python: pandas, matplotlib, seaborn, scipy, numpy, math, datetime, locale, tqdm, json, folium
 - LaTeX
 
 ###### Databases: 
