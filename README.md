@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Katerina
+### 👋 Hi, I’m Katerina
+<p> <a href="https://t.me/Ekaterion"><img src="![image](https://github.com/katerinabazh/katerinabazh/assets/135614951/55681898-8188-48c9-b9a5-c0e41512fc34)
+" height=25></a> 
+
 - 👀 I’m interested in **product analytics** and **marketing**
 - 🌱 I’m currently learning how to **analyze data**
 - 📫 How to reach me kate2000bkoven@gmail.com or https://t.me/Ekaterion 
