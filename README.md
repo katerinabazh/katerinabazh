@@ -12,6 +12,7 @@ GitHub
 <img src="https://github.com/katerinabazh/katerinabazh/assets/135614951/30418d1f-e5ed-4073-b082-3f7e8a8e121d" height=25></a> LaTeX
 
 ### Databases: 
+<img src="https://github.com/katerinabazh/katerinabazh/assets/135614951/ba26aa96-cbd2-4d16-85fb-0fcc0a521c5c" height=25></a>
 PostgreSQL
 
 ### 📫Connect with me
