@@ -8,7 +8,8 @@ Interested in the field of **products**, **analytics** related to **marketing**.
 GitHub
 
 <img src="https://github.com/katerinabazh/katerinabazh/assets/135614951/93622f30-3664-4606-b0f7-f31873c25f7b" height=25></a> Python: pandas, matplotlib, seaborn, scipy, numpy, math, datetime, locale, tqdm, json, folium
-- LaTeX
+
+<img src="https://github.com/katerinabazh/katerinabazh/assets/135614951/30418d1f-e5ed-4073-b082-3f7e8a8e121d" height=25></a> LaTeX
 
 ###### Databases: 
 PostgreSQL
