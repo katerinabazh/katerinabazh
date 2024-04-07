@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Katerina
 
 ## I’m a product analyst
-Interested in the field of **product**, **analysis** related to **marketing**. Passionate about finding growth areas to improve the product for users and business. Before learning how to **analyze data**, I worked as a programmer of text languages in the field of automation of report generation for a year.
+Interested in the field of **products**, **analytics** related to **marketing**. Passionate about finding growth areas to improve the product for users and business. Before learning how to **analyze data**, I worked as a programmer of text languages in the field of automation of report generation for a year.
 
 ###### DevOps Tools:
 - GitHub
