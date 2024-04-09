@@ -17,6 +17,7 @@ PostgreSQL
 
 ### 📫Connect with me
 -  kate2000bkoven@gmail.com or <a href="https://t.me/Ekaterion"><img src="https://github.com/katerinabazh/katerinabazh/assets/135614951/2ddafecb-a63d-4806-a598-667c6c1285bf" height=25></a>  <a href="https://vk.com/id358310969"><img src="https://github.com/katerinabazh/katerinabazh/assets/135614951/c80dba99-788c-46d4-a5a7-ab03a71e2de7" height=25></a>
+- watch my job resume  <a href="https://hh.ru/applicant/resumes/view?resume=8095bfc0ff090754940039ed1f783649414238"><img src="https://github.com/katerinabazh/katerinabazh/assets/135614951/89b55356-d540-4e03-8458-af877249c84a" height=25></a> 
 
 
 <!---
